@@ -33,7 +33,7 @@ module.exports.createLogHook = async(channel, cb) => {
 
     channel.createWebhook({
             avatar: `data:image/png;base64,${avatar}`,
-            name: `Loggy`
+            name: `Merlin`
         }, `Logs`)
         .then(hook => {
             cb(`https://discord.com/api/webhooks/${hook.id}/${hook.token}`)
