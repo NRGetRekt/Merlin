@@ -3,7 +3,7 @@
 # Merlin
 
 ## What's this?
-Just a Discord bot that aims to keep your servers free from annoying phishing links by detecting known domains.
+Merlin is a Discord bot that aims to keep your servers free from annoying phishing links by detecting known domains, this bot requires the backend API running. Setup [Backend API](https://github.com/NRGetRekt/Backend-API) before running
 
 ## Features
 - Automatic detection of malicious links
@@ -13,7 +13,6 @@ Just a Discord bot that aims to keep your servers free from annoying phishing li
 - Report URLs
 - Detect unauthorized @everyone mentions
 - Fully selfhostable!
-- Replit Support
 
 ## Setup
 - Install [Node.JS](https://nodejs.org/en/download)
