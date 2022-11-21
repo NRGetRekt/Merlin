@@ -17,7 +17,7 @@ Just a Discord bot that aims to keep your servers free from annoying phishing li
 - Replit Support
 
 ## Setup
-- Install [Node.JS]
+- Install [Node.JS](https://nodejs.org/en/download)
 - Clone the repository
 - Install dependencies with ``npm install``
 - Set your bot token in ``config.default.js``(create a secret if hosting on replit)
