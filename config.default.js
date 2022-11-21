@@ -20,7 +20,7 @@ module.exports = {
     },
 
     // API endpoint
-    api: 'https://scamaway.xenorio.xyz/api',
+    api: 'https://scamaway.xenorio.xyz/api', // This api is no longer available, make sure to check out the api repo
 
     // Identifier for the API. Needs to be set if you're using scamaway.xenorio.xyz
     // This may be your website, GitHub profile, Discord guild, something along those lines
