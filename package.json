@@ -1,7 +1,7 @@
 {
     "name": "merlin",
     "version": "1.0.0",
-    "description": "Just Another Anti-Phishing Bot",
+    "description": "Anti-Phishing Bot",
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
