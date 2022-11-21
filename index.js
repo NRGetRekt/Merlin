@@ -8,13 +8,7 @@ const ms = require('ms')
 const { log } = require('./util/util')
 const whitelist = require('./util/whitelist')
 
-console.log(`${colors.brightMagenta(`
-8""""8                    8""""8                       
-8      eeee eeeee eeeeeee 8    8 e   e  e eeeee e    e 
-8eeeee 8  8 8   8 8  8  8 8eeee8 8   8  8 8   8 8    8 
-    88 8e   8eee8 8e 8  8 88   8 8e  8  8 8eee8 8eeee8 
-e   88 88   88  8 88 8  8 88   8 88  8  8 88  8   88   
-8eee88 88e8 88  8 88 8  8 88   8 88ee8ee8 88  8   88 `)}
+console.log(`${colors.brightMagenta(`RUNNING...`)}
                ${'- '.yellow + 'The Anti-Phishing Bot'.cyan + ' -'.yellow}       
          ${'https://github.com/NRGetRekt/Merlin/'.gray}            
 `)
