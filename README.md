@@ -1,7 +1,6 @@
-<p align="center"><img src="./logo.png" alt="Logo" width="100"></p>
+<p align="center"><img src="./logo.png" alt="Logo" width="150"></p>
 
 # Merlin
-Just Another Anti-Phishing Bot
 
 ## What's this?
 Just a Discord bot that aims to keep your servers free from annoying phishing links by detecting known domains.
