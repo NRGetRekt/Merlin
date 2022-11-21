@@ -38,4 +38,4 @@ Projects being used:
 - [jsqrcode](https://github.com/edi9999/jsqrcode)
 
 External API'S:
-- [phish.sinking.yachts](https://phish.sinking.yachts/docs) & [scamaway.api](https://scamaway.xenorio.xyz/docs)
+- [phish.sinking.yachts](https://phish.sinking.yachts/docs)
