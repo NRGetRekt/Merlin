@@ -16,7 +16,7 @@ console.log(`${colors.brightMagenta(`
 e   88 88   88  8 88 8  8 88   8 88  8  8 88  8   88   
 8eee88 88e8 88  8 88 8  8 88   8 88ee8ee8 88  8   88 `)}
                ${'- '.yellow + 'The Anti-Phishing Bot'.cyan + ' -'.yellow}       
-         ${'https://github.com/Xenorio/ScamAway/'.gray}            
+         ${'https://github.com/NRGetRekt/Merlin/'.gray}            
 `)
 
 // Make log function available globallyy
