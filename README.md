@@ -20,7 +20,7 @@ Just a Discord bot that aims to keep your servers free from annoying phishing li
 - Install [Node.JS](https://nodejs.org/en/download)
 - Clone the repository
 - Install dependencies with ``npm install``
-- Set your bot token in ``config.default.js``(create a secret if hosting on replit)
+- Set your bot token in ``config.default.js``
 - Start the bot with ``npm start``
 
 ### Updating
